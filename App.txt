@@ -1,6 +1,7 @@
 class App{
 	public static void main(String[] args){
 	//code 1
+	System.out.println("java");
 	System.out.println("hello world");
 	}
 
